@@ -1,2 +1,2 @@
 
-This is my activity for IPT 102
+This is my activity for IPT 102.
